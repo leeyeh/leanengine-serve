@@ -4,5 +4,8 @@
   },
   "dependencies": {
     "serve": "^9.1.0"
+  },
+  "engines": {
+    "node": "10.x"
   }
 }
